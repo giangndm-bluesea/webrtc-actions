@@ -1,5 +1,5 @@
 name: Builds matrix
-on: [push]
+on: [push, workflow_dispatch]
 
 # Global Settings
 env:
